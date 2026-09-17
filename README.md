@@ -25,3 +25,16 @@ README
 * ** Современный UI:** Кастомный графический интерфейс на PySide6 с динамическим фоном и анимированными элементами.
 
 ---
+##  Требования и установка
+
+### 1. Предварительные требования
+* Python версии **3.9** или выше.
+
+### 2. Клонирование и установка зависимостей
+
+Загрузи проект на свой ПК и установи необходимые библиотеки:
+
+```bash
+git clone [https://github.com/username/funpay-sales-bot.git](https://github.com/username/funpay-sales-bot.git)
+cd funpay-sales-bot
+pip install -r requirements.txt
