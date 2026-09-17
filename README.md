@@ -1,0 +1,2 @@
+# FunPaybot
+README
